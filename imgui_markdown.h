@@ -301,7 +301,7 @@ namespace ImGui
     // External interface
     //-----------------------------------------------------------------------------
 
-    inline void Markdown( const char* markdown_, size_t markdownLength_, const MarkdownConfig& mdConfig_ );
+    inline void Markdown( const char* markdown_, size_t markdownLength_, const MarkdownConfig& mdConfig_ );  // funckce k volani z venku pro zprasovani a vyrenderovani ImGui contentu na zaklade toho stringu
 
     //-----------------------------------------------------------------------------
     // Internals
