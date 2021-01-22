@@ -1,8 +1,6 @@
-Support development of imgui_markdown through our [Patreon](https://www.patreon.com/enkisoftware)
+This will become an altered/extended version of imgui_markdown to meet the requirements of the i3t project.
 
-[<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" alt="Become a Patron" width="150"/>](https://www.patreon.com/enkisoftware)
-
-# imgui_markdown
+# imgui_markdown_extended
 
 ## Markdown for Dear ImGui
 
